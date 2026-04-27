@@ -11,3 +11,4 @@ function saludo(hora) {
   return saludofinal;
 }
 console.log(saludo(14));
+console.log(saludo(24));
